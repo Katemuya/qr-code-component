@@ -1,0 +1,44 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  margin: 0;
+}
+.container {
+  background: hsl(0, 0%, 100%);
+  margin: 60px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.text-container {
+  padding: 5px;
+}
+.heading {
+  font-size: 20px;
+  text-align: center;
+  font-family: [Outfit] "https://fonts.google.com/specimen/Outfit";
+  font-weight: 700;
+}
+.description {
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+  text-align: center;
+  padding: 5px 10px 20px 10px;
+}
+.attribution {
+  font-size: 20px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
