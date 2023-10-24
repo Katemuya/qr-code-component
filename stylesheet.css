@@ -2,14 +2,6 @@ body {
   background-color: hsl(212, 45%, 89%);
   margin: 0;
 }
-/* .container {
-  background: hsl(0, 0%, 100%);
-  margin: 20px auto;
-  border-radius: 20px;
-  overflow: hidden;
-  max-width: 250px;
-  padding: 10px;
-} */
 
 .container {
   background: hsl(0, 0%, 100%);
